@@ -30,3 +30,13 @@ You are tasked to create a new App for a new gym that has just opened up, the "S
 * Do not use MySQL keep all the data in the index.js file
 * Using handlebars and Express create a route for each of the ice cream you created
 * When the icecreams route is hit, it will render the name, price, and awesomeness of that ice cream.
+
+## Week14 - Class Work-1 Thursday 02/11 
+
+Given the following Js object 'lineage' create Node Express Handlebars App, that will render to HTML the family tree of these three house on one HTML page.
+    * Create the Node Express App
+    * Do not using MySQL
+    * Do not change the Js object 'lineage' in anyway
+    * Create the HTML for handlebars to properly render each character by their lineage.
+
+Make sure the name of each house is displayed with an underline and make each house have a different colored text and indented according to generations.
