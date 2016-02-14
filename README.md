@@ -76,3 +76,10 @@ var lineage = {
         }
     },
 };
+
+## Week14 - Class Work-1 Thursday 02/11 - Wish List 
+
+* Create a Node / Express / MYSQL / Handlebars app that is a wish list !! 
+* You can add items !! * View the whole list. Delete items you no longer want. 
+
+Funniest design wins!
